@@ -5,6 +5,10 @@ there are exactly 6 routes to the bottom right corner.
 How many such routes are there through a 20×20 grid?
 
 Use Pascal's Triangle / binomial coefficients to solve this. 
+
+(total paths)
+(total paths/options)
+
 */
 
 
