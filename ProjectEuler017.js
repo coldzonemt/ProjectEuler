@@ -76,8 +76,5 @@ var numbers = {
 	1000:8
 }
 
-//function takes in three numbers, the start and end of a range of numbers, and a step-increment (will default to 1 if no number is given). 
-var numberToWords = function(a,b,c) {
-	
-
-}
+// The number 1 appears once every 10 times, except for eleven. Figure out the special cases, and just 
+// return "x*3" for 1, "x*7" for hundred, etc. No need to iterate over everything here. 
